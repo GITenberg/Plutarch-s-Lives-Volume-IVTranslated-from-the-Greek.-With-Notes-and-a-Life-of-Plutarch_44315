@@ -1,0 +1,47 @@
+_repo: Plutarch-s-Lives-Volume-IVTranslated-from-the-Greek.-With-Notes-and-a-Life-of-Plutarch_44315
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+  - agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+covers:
+- cover_type: archival
+  image_path: 44315-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcc 'DE'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+tableOfContents: Life of Agis -- Life of Kleomenes -- Life of Tiberius Gracchus --
+  Life of Caius Gracchus -- Comparison of Tiberius and Caius Gracchus with Agis and
+  Kleomenes -- Life of Demosthenes -- Life of Cicero -- Comparison of Demosthenes
+  and Cicero -- Life of Demetrius -- Life of Antonius -- Comparison of Demetrius and
+  Antonius -- Life of Dion -- Life of Brutus -- Comparison of Dion and Brutus -- Life
+  of Artaxerxes -- Life of Aratus -- Life of Galba -- Life of Otho.
+title: Plutarch's Lives, Volume 4 (of 4)
+url: http://www.gutenberg.org/ebooks/44315
